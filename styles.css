@@ -1,19 +1,2 @@
 
 /* Your CSS Code here. */
-#skills{
-    background-color: aquamarine;
-    font-size: medium;
-    height: 50px;
-    width: 35px;
-    padding: auto;
-    display: block;
-    
-}
-#project{
-    background-color: rgb(14, 171, 119);
-    font-size: medium;
-    height: 50px;
-    width: 35px;
-    padding: auto;
-    display: block;
-}
